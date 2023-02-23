@@ -2,7 +2,7 @@
 This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).   
 -- Project Status: Completed
 ## Installation  
-  
+Dataset can be accessed at: https://ieee-dataport.org/open-access/battery-and-heating-data-real-driving-cycles  
 ## Project Intro/Objective   
 The main purpose of this project is to generate a model from a dataset to describe the battery heating rate in an electric vehicle given a specific scenario. The large scale at which lithium-ion batteries are used in EVs pose a risk for significant temperature increase during high power extraction. An accurate model of the battery heating rate is an essential part of developing a thermal management system which can be used to predict unsafe scenarios.      
 ## Partners, Contributors  
