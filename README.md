@@ -9,7 +9,7 @@ The main purpose of this project is to generate a model from a dataset to descri
 - Patricia Enrique: penrique@sandeigo.edu 
 - Frank Ivey: fivey@sandiego.edu
 ## Methods Used  
-Multivariate Linear Regression   
+Multiple Linear Regression   
 ## Technologies  
 Python  
 ## Project Description  
