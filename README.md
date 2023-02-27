@@ -14,4 +14,4 @@ Multiple Linear Regression
 Python  
 ## Project Description  
 The dataset used is from the IEEE DataPort which contains 72 trips taken using an EV. Each trip records information about the environment, vehicle, battery, and heating circuit. The features in the dataset include date, route, weather condition, battery start and end temperature (°C), battery start and end state of charge (SOC) (%), ambient temperature (°C), target cabin temperature (°C), distance driven (km), duration of the trip (min), fan level, and additional notes.  
-The analysis is exploring which features affect the rate at which the battery temperature increases and if a maultivariate linear regression model can be generated to represent the relationship between the explanatory variables and the response variable. 
+The analysis is exploring which features affect the rate at which the battery temperature increases and if a multiple linear regression model can be generated to represent the relationship between the explanatory variables and the response variable. 
